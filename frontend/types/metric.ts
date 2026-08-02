@@ -1,0 +1,1 @@
+// metric.ts - AgentTrust framework

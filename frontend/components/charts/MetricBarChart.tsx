@@ -1,0 +1,1 @@
+// MetricBarChart.tsx - AgentTrust framework

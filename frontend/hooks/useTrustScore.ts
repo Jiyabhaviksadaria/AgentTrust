@@ -1,0 +1,1 @@
+// useTrustScore.ts - AgentTrust framework
